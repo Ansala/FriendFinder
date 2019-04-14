@@ -20,5 +20,5 @@ Application data is saved inside of app/data/friends.js as an list of objects.
 
 App alos needs to be depoyed to Heroku:
  Deployed Herok Link:
- https://secure-fjord-57854.herokuapp.com/
+ https://powerful-bayou-16331.herokuapp.com/
  
